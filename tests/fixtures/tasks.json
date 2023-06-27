@@ -1,0 +1,24 @@
+{
+    "success": {
+        "name": "Ler um livro de JavaScript",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Correr 10km",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update": {
+        "name": "Finalizar curso de playwright",
+        "is_done": false
+    },
+    "delete": {
+        "name": "procrastinar",
+        "is_done": false
+    }
+    
+
+}
